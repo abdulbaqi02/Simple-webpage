@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#roll-number {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 50px;
+}
